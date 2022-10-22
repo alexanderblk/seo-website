@@ -13,8 +13,8 @@ The main challenge was to identify what was wrong in the starter code and how to
 
 As an easy solution, I thought that it would be easier to add semantic tags around the current code, but I realised after that the style and layout of the website was ruined.
 
-My final code looks like this :
-The website looks like this:
+My final code looks like this : ![Final Code](https://user-images.githubusercontent.com/115581300/197336013-32db822b-f1b2-4226-b712-7b6a6bee1148.png)
+The website looks like this: ![Website Preview](https://user-images.githubusercontent.com/115581300/197336017-3fa7b859-30b2-46e2-830f-270b47cb5cda.png)
 
 # Things I learned
 
