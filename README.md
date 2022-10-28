@@ -27,5 +27,5 @@ I have learned that comments have a very important role when writing code.
 If you have any questions, please contact me at:
 
 Github Profile: [GitHub](https://github.com/alexanderblk)
-Email: alexalexxander@gmail.com
+Email:
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/alexandru-dumitru-a02719188/)
